@@ -146,5 +146,5 @@ These initiatives would improve operational visibility, support better inventory
 ## Files in this Repository
 | File | Description |
 |------|--------------|
-| `Advanced_Analytics_Project.ipynb` | Full Python notebook: EDA, preprocessing, all ML models, and time series analysis. |
+| `Supermarket-Sustainability-Advanced-Analytics.ipynb` | Full Python notebook: EDA, preprocessing, all ML models, and time series analysis. |
 | `README.md` | Project overview, methodology, insights, and model comparison. |

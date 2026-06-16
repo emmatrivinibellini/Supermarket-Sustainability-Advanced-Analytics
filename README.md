@@ -138,8 +138,8 @@ These initiatives would improve operational visibility, support better inventory
 ---
 
 ## Datasets
-- [**Supermarket Sales Dataset**](https://drive.google.com/file/d/1rW6Av8bbWu1Lyo8SKjiaSRUMoHoWNK7F/view)— 1,000 transactional records including branch, city, customer type, gender, product line, payment method, unit price, gross income, and satisfaction rating.
-- [**Apple Quality Dataset**](https://drive.google.com/file/d/1XnzAlIa8R9D_doy0ebSo1qf319Pg6mbf/view) — 4,000 records with physical and chemical apple features (Size, Weight, Sweetness, Crunchiness, Juiciness, Ripeness, Acidity) and a binary quality label (Good/Bad).
+- [**Supermarket Sales Dataset**](https://drive.google.com/file/d/1rW6Av8bbWu1Lyo8SKjiaSRUMoHoWNK7F/view) 1,000 transactional records including branch, city, customer type, gender, product line, payment method, unit price, gross income, and satisfaction rating.
+- [**Apple Quality Dataset**](https://drive.google.com/file/d/1XnzAlIa8R9D_doy0ebSo1qf319Pg6mbf/view) 4,000 records with physical and chemical apple features (Size, Weight, Sweetness, Crunchiness, Juiciness, Ripeness, Acidity) and a binary quality label (Good/Bad).
 
 ---
 

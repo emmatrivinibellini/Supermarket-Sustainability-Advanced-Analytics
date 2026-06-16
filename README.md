@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-Sustainable retailers must balance profitability, product quality, and customer satisfaction while making data-driven decisions across their operations. Using Python and machine learning, I analyzed sales transactions and product quality data from a sustainability-focused supermarket chain to identify opportunities for improving business performance and operational efficiency.
+Sustainable retailers must balance profitability, product quality, and customer satisfaction while making data-driven decisions across their operations. Using **Python and machine learning**, I analyzed sales transactions and product quality data from a sustainability-focused supermarket chain to identify opportunities for improving business performance and operational efficiency.
 
 The project combines regression, classification, clustering, and forecasting techniques to address multiple business challenges, including profitability prediction, product quality assessment, customer satisfaction analysis, and revenue forecasting.
 
